@@ -2,6 +2,7 @@
 using API.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -9,9 +10,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace API.Migrations
 {
     [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [Migration("20231102194740_adding password columns")]
+    partial class addingpasswordcolumns
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "7.0.13");
@@ -28,7 +31,7 @@ namespace API.Migrations
                     b.Property<byte[]>("PasswordSalt")
                         .HasColumnType("BLOB");
 
-                    b.Property<string>("Username")
+                    b.Property<string>("UserName")
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");
