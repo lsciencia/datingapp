@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Ef/Wjufrb8bpOmRzxL1TUknSRs0vm3sWoRs9Ul8cVjG2IHTnTsi+jTRM0skGHG4kWKKQMFFHn21js3/ajpCOuw==",
+  "dgSpecHash": "yWwNNyhqRgk+Rfb+ScNQGhnh6RT9mdUn8z9wbQNOWtRp7YwstISP56fEEKV1P6vFmjYEi/3Hs9u65nMyFLAh5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luiss\\github\\datingapp\\API\\API.csproj",
+  "projectFilePath": "C:\\users\\luiss\\github\\datingapp\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\luiss\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\luiss\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\luiss\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\luiss\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.13\\microsoft.aspnetcore.authentication.jwtbearer.7.0.13.nupkg.sha512",
     "C:\\Users\\luiss\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "C:\\Users\\luiss\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\luiss\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.13\\microsoft.data.sqlite.core.7.0.13.nupkg.sha512",
     "C:\\Users\\luiss\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
     "C:\\Users\\luiss\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.13\\microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512",
