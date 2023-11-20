@@ -2205,11 +2205,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luiss\\github\\datingapp\\API\\API.csproj",
+      "projectUniqueName": "C:\\users\\luiss\\github\\datingapp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\luiss\\github\\datingapp\\API\\API.csproj",
+      "projectPath": "C:\\users\\luiss\\github\\datingapp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\luiss\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luiss\\github\\datingapp\\API\\obj\\",
+      "outputPath": "C:\\users\\luiss\\github\\datingapp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luiss\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2298,7 +2298,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

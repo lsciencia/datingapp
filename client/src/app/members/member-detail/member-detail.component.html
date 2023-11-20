@@ -43,7 +43,7 @@
                 <p>{{member.interests}}</p>
             </tab>
             <tab heading="Photos" #photoTab="tab">
-                <gallery *ngIf="photoTab.active" [items]="images"></gallery>
+                <gallery *ngIf="photoTab.active" class="gallery" [items]="images"></gallery>
             </tab>
             <tab heading="Messages">
                 <p>We do not have messages yet</p>

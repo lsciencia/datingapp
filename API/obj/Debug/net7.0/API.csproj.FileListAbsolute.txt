@@ -78,3 +78,4 @@ C:\Users\luiss\github\datingapp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Pro
 C:\Users\luiss\github\datingapp\API\bin\Debug\net7.0\Data\UserSeedData.json
 C:\Users\luiss\github\datingapp\API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\luiss\github\datingapp\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\luiss\github\datingapp\API\obj\Debug\net7.0\API.sourcelink.json
