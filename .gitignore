@@ -1,3 +1,5 @@
 .vs/
 /API/appsettings.json
 /API/appsettings.Development.json
+/API/bin/
+/API/obj/
